@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TestdeloyapiApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TestdeloyapiApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(TestdeloyapiApplication.class, args);
+    }
 
 }
